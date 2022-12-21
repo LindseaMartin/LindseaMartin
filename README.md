@@ -9,7 +9,7 @@
 ```javascript
 const lindsea = {
    pronouns: "she" | "her",
-   code: [Javascript, HTML, CSS, C#],
+   code: [Javascript, HTML, CSS, C#, SQL],
    tools: [React, Redux, Node, Styled-Components],
    challenge: "I am taking Harvard's CS50 online class"
 }
