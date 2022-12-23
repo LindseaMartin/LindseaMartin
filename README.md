@@ -1,16 +1,15 @@
 <h2> Hi, I'm Lindsea! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.imgur.com/HmhIHrQ.gif" width="315">
-<p><em>Software development student at <a href="https//www.nait.ca/nait/home">NAIT</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+<p>Software development student at NAIT <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
   <p>Seeking co-op opportunities <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- </em></p>
+ </p>
     
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
    
 ```javascript
 const lindsea = {
-   pronouns: "she" | "her",
-   code: [Javascript, HTML, CSS, C#, SQL],
-   tools: [React, Redux, Node, Styled-Components],
+   pronouns: "she" || "her",
+   interests: [Nature, Pets, Video Games, Anime, Manga],
    challenge: "I am taking Harvard's CS50 online class"
 }
 ```
