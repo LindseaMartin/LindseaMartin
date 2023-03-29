@@ -1,17 +1,21 @@
-<h2> Hi, I'm Lindsea! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.imgur.com/HmhIHrQ.gif" width="315">
-<p>Software development student at NAIT <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
-  <p>Seeking co-op opportunities <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- </p>
-    
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-   
+<h2> Hi, I'm Lindsea! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></h2>
+<p>Software development student at NAIT <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></p>
+
 ```javascript
-const lindsea = {
-   pronouns: "she" || "her",
-   interests: [Nature, Pets, Video Games, Anime, Manga],
-   challenge: "I am taking Harvard's CS50 online class"
-}
+// A little bit more about me 👋
+
+const aboutMe = {
+  name: "Lindsea",
+  location: "Edmonton, Alberta",
+  jobTitle: "Student",
+  favoriteTech: "Too hard to decide!",
+  currentProject: "Learning unity engine."
+  hobbies: ["playing video games", "watching anime", "reading", "animals", "cooking"]
+};
+
+console.log(`Hello! I'm ${aboutMe.name}, a ${aboutMe.jobTitle} from ${aboutMe.location}.`);
+console.log(`I love exploring new technologies, and some of my hobbies include ${aboutMe.hobbies.slice(0, -1).join(", ")}, and ${aboutMe.hobbies.slice(-1)}.`);
+console.log(`In my spare time, I'm currently: ${aboutMe.currentProject} Let's connect and build something amazing!`);
 ```
   
 <details>
@@ -22,4 +26,3 @@ const lindsea = {
 </div>
 </details>
   
-<br><h5><a href="https://storyset.com/web">Web illustrations by Storyset</a></h5>
