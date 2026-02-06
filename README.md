@@ -7,7 +7,7 @@ const aboutMe = {
   name: "Lindsea",
   location: "Edmonton, Alberta",
   favoriteTech: "Too hard to decide!",
-  currentProject: "Learning unity engine."
+  currentProject: "My Dog Walking Application"
   hobbies: ["playing video games", "watching anime", "reading", "animals", "cooking"]
 };
 
